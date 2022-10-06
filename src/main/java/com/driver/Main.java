@@ -5,7 +5,7 @@ public class Main {
         A ob = new B();
         System.out.println(ob.meth());
         B obj = new B() ;
-      System.out.println(obj.meth())
+      System.out.println(obj.meth());
     }
 }
 class A{
